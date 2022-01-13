@@ -7,8 +7,8 @@
         "udemy"
     ],
     "repository": "https://github.com/gautamajay52/UdemyBot",
-    "success_url": "https://t.me/gbotstoresupport",
-    "website": "https://github.com/gautamajay52",
+    "success_url": "https://t.me/jetbots_support",
+    "website": "https://github.com/jettastic",
     "env": {
         "API_HASH": {
             "description": "Get one from https://my.telegram.org/apps",
