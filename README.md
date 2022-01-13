@@ -10,7 +10,7 @@
 
 ## ⚡ Steps: 🔥
 
-1) Tap on [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+1) Tap on [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hoihoi07/UdemyBot)
 2) Fill all the details.
 3) Turn on worker.
 4) Enjoy 👌
